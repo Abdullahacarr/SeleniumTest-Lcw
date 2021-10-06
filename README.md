@@ -1,9 +1,9 @@
 # TestiniumLcw
 Selenium Web Otomasyon
 
-https://www.lcwaikiki.com/tr-TR/TR sitesi açılır.
-Ana sayfanın açıldığı kontrol edilir. Siteye login olunur
-Login işlemi kontrol edilir.
+-https://www.lcwaikiki.com/tr-TR/TR sitesi açılır.
+-Ana sayfanın açıldığı kontrol edilir. Siteye login olunur
+-Login işlemi kontrol edilir.
 Arama kutucuğuna “pantolan” kelimesi girilir.
 Sayfanın sonuna scroll edilir.
 “Daha fazla ürün gör “ butonuna tıklanır.
